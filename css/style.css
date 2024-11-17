@@ -26,3 +26,12 @@
   height: 100px;
   border-radius: 50%;
 }
+
+.dog-icon{
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+.pebbles-style{
+  font-size: 1.3rem;
+}
